@@ -11,8 +11,8 @@
     <h1>Hello World</h1>
 
     <?php
-    $nama = 'Ahammad';
-    $umur = 20 + 3;
+    $nama = 'Wan Zafirzan Bin Wan Tarmizan';
+    $umur = 20;
 
     echo "$nama berumur $umur tahun";
     ?>
